@@ -1,0 +1,19 @@
+{
+    "name": "student/versheva",
+    "description": "Laboratorium pollub",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Student\\Versheva\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Student Politechniki",
+            "email": "student@pollub.pl"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.13"
+    }
+}
